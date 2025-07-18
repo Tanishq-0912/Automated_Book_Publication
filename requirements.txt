@@ -1,0 +1,6 @@
+# requirements.txt
+playwright
+openai
+pyttsx3
+chromadb
+
